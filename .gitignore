@@ -14,12 +14,11 @@ Cargo.lock
 *.pdb
 
 # VSCode
-*.vscode
+.vscode
 
 # Docker
 
-*.dev-container
+.dev-container
 
 # Github 
-
-*.github
+.github
