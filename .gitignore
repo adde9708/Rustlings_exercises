@@ -16,8 +16,9 @@ Cargo.lock
 # VSCode
 .vscode
 
-
+# Docker
+.devcontainer
 
 # Github 
 .github
-.devcontainer
+
